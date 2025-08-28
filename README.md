@@ -5,6 +5,10 @@
 This is a no-code AI tool designed to help **YouTube content creators** quickly generate engaging **video scripts** and **thumbnails** with the help of AI. Built using a combination of no-code platforms and AI models like **ChatGPT** and image generation APIs, this tool streamlines the video content creation process from idea to execution.
 
 > Perfect for content creators, freelancers, interns, and marketers who want to save time and boost creativity without needing to write code.
+> ## 🎥 My AI-Generated Portfolio Video
+
+[Watch it on YouTube](https://youtube.com/watch?v=0pE26rAdhQU&feature=shared)
+
 
 ---
 
