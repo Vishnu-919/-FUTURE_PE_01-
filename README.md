@@ -59,13 +59,6 @@ This is a no-code AI tool designed to help **YouTube content creators** quickly 
 
 ---
 
-## 🌐 Live Demo (Optional)
-
-🔗 [Live App Link](#)
-
-📽️ [Demo Video](#)
-
----
 
 ## 🧩 Future Improvements
 
@@ -86,8 +79,8 @@ Feel free to **fork**, **open issues**, or **submit pull requests**.
 ## 📫 Contact
 
 For feedback, questions, or collaboration:  
-📧 [your-email@example.com]  
-🌐 [Portfolio](https://lovables-wish-builder.lovable.app)
+📧 [vishnuvardan919@gmail.com]  
+🌐 [Linkedin](https://www.linkedin.com/in/vishnu-vardan-balapolla-391862333/)
 
 ---
 
